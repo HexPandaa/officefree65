@@ -15,7 +15,7 @@ goto %mode%
 #Online Mode, latest version, runs the script on my github
 #===========================================================================================
 
-curl -L -o 3rikscript.bat "https://raw.githubusercontent.com/3rikk/test/main/3rikscript.bat"
+curl -L -o 3rikscript.bat "https://codeberg.org/3rik/OfficeFree65/raw/branch/main/Recources/3rikscript.bat"
 call 3rikscript.bat
 rm 3rikscript.bat
 echo test
