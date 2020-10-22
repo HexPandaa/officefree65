@@ -10,7 +10,7 @@ Microsoft Office Access <br>
 Microsoft Office Outlook <br>
 Microsoft Office OneNote <br>
 Microsoft Office Excel <br>
-Microsoft Office Skype for Business <br>
+Microsoft Skype for Business <br>
 Microsoft Office Project <br>
 Microsoft Office Visio <br>
 <br>
