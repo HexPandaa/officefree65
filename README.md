@@ -1,7 +1,10 @@
-<b>OfficeFree65</b>
+# OfficeFree65
+
+Script that easily activates and installs the latest microsoft office 365, with support for updates. <br>
+Support for Office 365 Insider builds coming soon. <br>
+Support for optionally deactivating specific components planned. <br>
 <br>
-Office 365 installer. Definitely does not crack anything (tm).
+Go to the releases tab to download.
 <br>
-The only sources for downloads from the file are my github and microsoft.com.
-Main repo with sources for the components is at:
-https://codeberg.org/3rik/OfficeFree65
+Main repo with sources for the components is at: https://codeberg.org/3rik/OfficeFree65
+This page should recieve updates on the releases channel a couple minutes after codeberg, but you may still want to check there for a newer version just in case.
