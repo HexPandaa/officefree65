@@ -1,7 +1,7 @@
 # OfficeFree65
 
 Script that easily activates and installs the latest microsoft office 365, with support for updates. <br>
-Support for Office 365 Insider builds coming soon. <br>
+Support for Office 365 Insider builds and Alpha (DevMode) builds added in 2.0.0. <br>
 Support for optionally deactivating specific components planned. <br>
 <br>
 Go to the releases tab to download.
