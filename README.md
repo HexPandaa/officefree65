@@ -22,6 +22,8 @@ Go to the releases tab to download.
 Main repo with sources for the components is at: https://codeberg.org/3rik/OfficeFree65
 <br>
 This page should recieve updates on the releases channel a couple minutes after codeberg, but you may still want to check there for a newer version just in case.
+<br>
+<b> Note that it only supports 64bit Windows 8, 8.1 and 10. </b> <br>
 
 ## Why does it say "Microsoft Office Mondo 2016" on the activation page?
 Being a monthly activation subscription, KMS activation dosen't work well when you try to activate the product as a 365 subscription. Activating as Mondo 2016 fixes that. <b> You will still receive all features and feature updates as Office 365 ProPlus.</b>
