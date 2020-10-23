@@ -2,7 +2,7 @@
 
 Script that easily activates and installs the latest microsoft office 365. <br>
 The installed office will have full support for <b>Microsoft Sign In, Settings Sync, Addins, Connected Services like OneDrive, Office Updates directly from Microsoft (on Insider, DevMode and Standard channels)</b> and basically every other feature in office 365 apart from the 1TB Cloud Storage. <br>
-It installs the following apps: <br> <br>
+It installs the following apps: <br> <br><u>
 Microsoft Office Word <br>
 Microsoft Office Powerpoint <br>
 Microsoft Office Publisher <br>
@@ -12,9 +12,8 @@ Microsoft Office OneNote <br>
 Microsoft Office Excel <br>
 Microsoft Skype for Business <br>
 Microsoft Office Project <br>
-Microsoft Office Visio <br>
+Microsoft Office Visio <br></u>
 
-<br>
 Support for Office 365 Insider builds and Alpha (DevMode) builds added in 2.0.0. <br>
 Support for optionally deactivating specific components planned. <br>
 <br>
