@@ -14,6 +14,11 @@ Microsoft Skype for Business <br>
 Microsoft Office Project <br>
 Microsoft Office Visio <br>
 <br>
+
+### Why does it say "Microsoft Office Mondo 2016" on the activation page?
+Being a monthly activation subscription, KMS activation dosen't work well when you try to activate the product as a 365 subscription. Activating as Mondo 2016 fixes that. <b> You will still receive all features and feature updates as Office 365 ProPlus.</b>
+
+<br>
 Support for Office 365 Insider builds and Alpha (DevMode) builds added in 2.0.0. <br>
 Support for optionally deactivating specific components planned. <br>
 <br>
