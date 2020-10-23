@@ -13,10 +13,6 @@ Microsoft Office Excel <br>
 Microsoft Skype for Business <br>
 Microsoft Office Project <br>
 Microsoft Office Visio <br>
-<br>
-
-## Why does it say "Microsoft Office Mondo 2016" on the activation page?
-Being a monthly activation subscription, KMS activation dosen't work well when you try to activate the product as a 365 subscription. Activating as Mondo 2016 fixes that. <b> You will still receive all features and feature updates as Office 365 ProPlus.</b>
 
 <br>
 Support for Office 365 Insider builds and Alpha (DevMode) builds added in 2.0.0. <br>
@@ -27,7 +23,9 @@ Go to the releases tab to download.
 Main repo with sources for the components is at: https://codeberg.org/3rik/OfficeFree65
 <br>
 This page should recieve updates on the releases channel a couple minutes after codeberg, but you may still want to check there for a newer version just in case.
-<br>
+
+## Why does it say "Microsoft Office Mondo 2016" on the activation page?
+Being a monthly activation subscription, KMS activation dosen't work well when you try to activate the product as a 365 subscription. Activating as Mondo 2016 fixes that. <b> You will still receive all features and feature updates as Office 365 ProPlus.</b>
 
 ## Bugs
 I'm still a noob by most developer's standards, so there may be issues I haven't noticed yet, although I have tried to iron out as many as possible. Please report them here on the issues tab, or for a possibly faster reponse, at https://codeberg.org/3rik/OfficeFree65/issues.
