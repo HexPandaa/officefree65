@@ -2,7 +2,7 @@
 
 Script that easily activates and installs the latest microsoft office 365. <br>
 The installed office will have full support for <b>Microsoft Sign In, Settings Sync, Addins, Connected Services like OneDrive, Office Updates directly from Microsoft (on Insider, DevMode and Standard channels)</b> and basically every other feature in office 365 apart from the 1TB Cloud Storage. <br>
-![alt text](https://i.imgur.com/CnV1oFc.png)
+<img src="https://i.imgur.com/CnV1oFc.png">
 <br>
 It installs the following apps: <br> <br><u>
 Microsoft Office Word <br>
@@ -26,7 +26,7 @@ Main repo with sources for the components is at: https://codeberg.org/3rik/Offic
 This page should recieve updates on the releases channel a couple minutes after codeberg, but you may still want to check there for a newer version just in case.
 <br>
 <b> Note that it only supports 64bit Windows 8, 8.1 and 10. </b> <br>
-![alt text](https://i.imgur.com/8tWyKAo.png)
+<img src="https://i.imgur.com/8tWyKAo.png">
 
 <br>
 ## Why does it say "Microsoft Office Mondo 2016" on the activation page?
