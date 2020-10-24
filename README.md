@@ -86,7 +86,7 @@ Github is owned by Microsoft. I don't know how long this repo would survive over
 <br>
 <h3>Bugs</h3>
 I'm still a noob by most developer's standards, so there may be issues I haven't noticed yet, although I have tried to iron out as many as possible. Please report them here on the issues tab, or for a possibly faster reponse, at https://codeberg.org/3rik/OfficeFree65/issues.
-<br>
+<br><br>
 
 ## Credits
 The credits for most of this project go to the developers of Yet Another Office Click To Run Installer and KMS activator. This is also based on a guide here: https://docs.google.com/document/d/1K-4oqnyomXCibQfOJkYbLqeKTmO7ApoGRk_EscaWnEk/preview which achieves the same but has more steps involved.
