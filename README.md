@@ -15,7 +15,6 @@ The installed office will have full support for <b>Microsoft Sign In, Settings S
 <br><img src="https://i.imgur.com/0fUxuIW.png" width="900">
 </details>
 
-<br>
 The following apps will be installed: <br>
 
     Microsoft Office Word
