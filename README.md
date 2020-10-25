@@ -75,6 +75,12 @@ This was already present in the script itself (when asked if you already have of
 
 ### Advanced Settings
 From version 2.2.0 onwards, the file includes some settings. <br>
+
+<details>
+  <summary>Click to see image of the settings section</summary>
+    <img src="https://i.imgur.com/c1XCoMo.png">
+</details>
+
 * Skip version check - Skips checking for supported OS version. Set to 1 to enable.
 * Skip admin check - Skips checking for administrator permissions. Set to 1 to enable.
 * Options to run both utilties automatically (instantly upon running the script, no prior user input required.) Useful if you want to integrate one of the tools into your script or something.
