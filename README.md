@@ -64,9 +64,7 @@ This page should recieve updates on the releases channel a couple minutes after 
 ## Usage
 1. Simply double click the script to run it.<br>
 2. You must accept the EULA to use the script. Once read, press Y (for yes) to do so.
-<br> 
 3. For a normal installation, select 1 when asked to begin the installation.
-<br> 
 4. Selecting 1 when asked if you already have office installed will launch a script to delete it and all it's traces, which is important as not doing so could break the new installation. If you want to try without deleting it, or if you dont have office installed already, select 2.
     * The same script is also available [here](#built-in-tools). <br>
 5. Select the number for the channel you want to install from.
