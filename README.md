@@ -46,9 +46,7 @@ This page should recieve updates on the releases channel a couple minutes after 
 
 ## Usage
 1. Simply double click the script to run it.<br>
-2. It requires administrator permissions and will try to ask for them, hit "yes" if the prompt appears. If it can't get administrator permissions, you will get this message:<br>
-<img src="https://i.imgur.com/Ubt7QqB.png" width="500"><br>
-    * An option to skip this check is available [here](#advanced-settings).
+2. You must accept the EULA to use the script. Once read, press Y (for yes) to do so.
 <br> 
 3. For a normal installation, select 1 when asked to begin the installation.
 <br> 
@@ -59,11 +57,13 @@ This page should recieve updates on the releases channel a couple minutes after 
     * 2 is the normal insider channel, for beta builds
     * 3 is the special DogfoodDevMain channel (same as the MicrosoftElite channel) and has alpha builds even newer than those in the insider channel. <br>
 6. The script will download and run the installation. <br>
-7. Before activating, you will be prompted to disable your antivurus. While this is likely not required to do with Windows Defender, other antivuruses may detect the KMS activation script as a virus. It is up to you whether you want to disable or not.
-8. Done!
+9. Done!
 
 ### Built in tools
-From version 2.2.0 onwards, some tools have been included in the script. For now there are only two, though I plan to expand on this in the future.
+From version 2.2.0 onwards, some tools have been included in the script. 
+#### Activate any Microsoft Office installation
+Runs the activation portion of the script, attemtping to activate whatever installation of Office is already on your PC.
+<br>No guaranteed success with office versions not installed by this script.
 #### Cleanup script
 Normally run at the end of a successful installation, this cleans up any temproary files made by this script.
 Useful if the script crashes or something stops it from doing this process itself.
@@ -76,9 +76,9 @@ From version 2.2.0 onwards, the file includes some settings. <br>
 * Skip admin check - Skips checking for administrator permissions. Set to 1 to enable.
 * Options to run both utilties automatically (instantly upon running the script, no prior user input required.) Useful if you want to integrate one of the tools into your script or something.
 * Debug Mode - Useless to most, outputs debug info prompts througout the script.
-* Beta Script - Runs the 3rikscript from https://codeberg.org/3rik/OfficeFree65/raw/branch/main/Recources/Beta/3rikscript.bat instead of the standard source. May be unstable, as I use this to test releases before I release them.
-* Custom Script - Run a custom script from your hard drive instead of downloading the latest 3rikscript from here. Useful if you want to run a modified version.
-* Master settings toggle - sets whether or not to listen to the settings in the OfficeFree65.bat script. Default is 2, but when set to 1 it will not send settings variables to 3rikscript.bat, and the variables applied there will take over. Must also be set in 3rikscript.bat to work, use together with customscript.
+* Beta Script - Runs the main script from https://codeberg.org/3rik/OfficeFree65/raw/branch/main/Recources/Beta/mainscript.bat instead of the standard source. May be unstable, as I use this to test releases before I release them.
+* Custom Script - Run a custom script from your hard drive instead of downloading the latest main script from here. Useful if you want to run a modified version.
+* Master settings toggle - sets whether or not to listen to the settings in the OfficeFree65.bat script. Default is 2, but when set to 1 it will not send settings variables to 3rikscript.bat, and the variables applied there will take over. Must also be set in main script.bat to work, use together with customscript.
 
 
 ## FAQ
