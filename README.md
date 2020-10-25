@@ -1,16 +1,19 @@
 ### Here from "Your version of OfficeFree65 is outdated"?
 The latest update broke older versions of scripts.
-Please downloads the latest version at https://github.com/3rikk/officefree65/releases
+Please downloads the latest version at https://codeberg.org/3rik/OfficeFree65/releases
 
 # OfficeFree65
 A simple script that easily activates and installs the latest microsoft office 365. <br>
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#usage)
+* [Automation](#automation)
 * [FAQ](#faq)
+* [Credits](#credits)
 ## General info
 This script downloads the latest Office 365 from microsoft directly, installs it and finally activates it. <br>
 The installed office will have full support for <b>Microsoft Sign In, Settings Sync, Addins, Connected Services like OneDrive, Office Updates directly from Microsoft (on Insider, DevMain and Standard channels)</b> and basically every other feature in office 365 apart from the 1TB Cloud Storage. <br>
+It also includes advanced features like support for installation automation and running custom components.
 <details>
   <summary>Click to see images</summary>
 <img src="https://i.imgur.com/CnV1oFc.png" width="300"> <img src="https://i.imgur.com/M1JCrLw.png" width="300"> <img src="https://i.imgur.com/i0WnCoD.png" width="300"> <img src="https://i.imgur.com/DCP0bkK.png" width="300"> <img src="https://i.imgur.com/Gk95JEO.png" width="300"> <img src="https://i.imgur.com/Y78zc9q.png" width="300"> <img src="https://i.imgur.com/4xd2rOh.png" width="300"> <img src="https://i.imgur.com/kxgxjtX.png" width="300"><br>
@@ -80,6 +83,16 @@ From version 2.2.0 onwards, the file includes some settings. <br>
 * Custom Script - Run a custom script from your hard drive instead of downloading the latest main script from here. Useful if you want to run a modified version.
 * Master settings toggle - sets whether or not to listen to the settings in the OfficeFree65.bat script. Default is 2, but when set to 1 it will not send settings variables to 3rikscript.bat, and the variables applied there will take over. Must also be set in main script.bat to work, use together with customscript.
 
+### Automation
+From version 3.1.0 onwards, the script supports options to automate installation: <br>
+set automaticchannel - Set the default channel, and skip the channel selection page. 1=Current/Monthly, 2=Insider, 3=DogfoodDevMain. O=Off<br>
+set automaticdeleteoldofficeinstallations - 1=Automatically run OfficeScrubber and delete all office installations before installation, and skip prompt asking to. 2=Do not run it, and skip prompt asking to. 0=Normal behaviour.<br>
+set skipantiviruswarning - 0=Normal behaviour. 1=Skips the warning about disabling your antivirus.<br>
+set skipotherscriptprompt - 0=Normal behaviour. 1=Skips prompts about non-standard scripts like Beta or Custom Scripts.<br>
+set skipupdateavailable - Set to 1 to ignore ALL available updates.<br>
+set ignoreoptionalupdate - Set to 1 to ignore optional updates.<br>
+These can all be set in the settings portion of the OfficeFree65.bat file (it is at the top)
+
 
 ## FAQ
 <h3>Why does it say "Microsoft Office Mondo 2016" on the activation page?</h3>
@@ -93,7 +106,7 @@ I'm still a noob by most developer's standards, so there may be issues I haven't
 <br><br>
 
 ## Credits
-The credits for most of this project go to the developers of Yet Another Office Click To Run Installer and KMS activator. This is also based on a guide here: https://docs.google.com/document/d/1K-4oqnyomXCibQfOJkYbLqeKTmO7ApoGRk_EscaWnEk/preview which achieves the same but has more steps involved.
+The credits for most of this project go to the developers of Yet Another Office Click To Run Installer, Office Scrubber and KMS activator. This is also based on a guide here: https://docs.google.com/document/d/1K-4oqnyomXCibQfOJkYbLqeKTmO7ApoGRk_EscaWnEk/preview which achieves the same but has more steps involved.
 <br>
 All I did was simplify the process a bit by putting it into one script that does most of the work for you.
 
