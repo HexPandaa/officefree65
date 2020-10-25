@@ -1,6 +1,6 @@
 ### Here from "Your version of OfficeFree65 is outdated"?
 The update 3.0.0 broke functionality in older versions of this script.
-Please downloads the latest version at https://codeberg.org/3rik/OfficeFree65/releases
+Please downloads the latest version at https://github.com/3rikk/OfficeFree65/releases
 
 # OfficeFree65
 A simple script that easily activates and installs the latest microsoft office 365. <br>
