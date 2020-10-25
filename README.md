@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="100px" src="https://i.imgur.com/uMJo8sc.png align="center" alt="OfficeFree65" />
+   <img width="100px" src="https://i.imgur.com/uMJo8sc.png" align="center" alt="OfficeFree65" />
 <h2 align="center">OfficeFree65</h2>
 <p align="center">A simple script that easily activates and installs the latest Microsoft Office 365.</p>
 </p>
