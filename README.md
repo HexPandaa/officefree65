@@ -26,7 +26,7 @@ Please downloads the latest version at https://github.com/3rikk/OfficeFree65/rel
 * [Credits](#credits)
 ## General info
 This script downloads the latest Office 365 from microsoft directly, installs it and activates it. <br>
-The installed office will have full support for <b>Microsoft Sign In, Settings Sync, Addins, Connected Services like OneDrive, Office Updates directly from Microsoft (on Insider, DevMain and Standard channels)</b> and basically every other feature in office 365 apart from the 1TB Cloud Storage. <br>
+The installed office will have full support for <b>Microsoft Sign In, Settings Sync, Addins, Connected Services like OneDrive and Sites, Office Updates directly from Microsoft (on Insider, DevMain and Standard channels)</b> and basically every other feature in office 365 apart from the 1TB Cloud Storage. <br>
 It also includes advanced features like support for installation automation and running custom components.
 <details>
   <summary>Click to see images</summary>
