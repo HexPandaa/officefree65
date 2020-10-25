@@ -15,7 +15,7 @@
                  
 ### Here from "Your version of OfficeFree65 is outdated"?
 <i>The update 3.0.0 broke functionality in older versions of this script, because the location of the work folder was changed. <br>
-<i>To prevent errors, I have disabled in versions 2.2.0 and older.<br>
+To prevent errors, I have disabled in versions 2.2.0 and older.<br>
 Please downloads the latest version at https://github.com/3rikk/OfficeFree65/releases</i>
 
 ## Table of contents
