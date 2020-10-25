@@ -103,12 +103,12 @@ From version 2.2.0 onwards, the file includes some settings. <br>
 
 ### Automation
 From version 3.1.0 onwards, the script supports options to automate installation: <br>
-set automaticchannel - Set the default channel, and skip the channel selection page. 1=Current/Monthly, 2=Insider, 3=DogfoodDevMain. O=Off<br>
-set automaticdeleteoldofficeinstallations - 1=Automatically run OfficeScrubber and delete all office installations before installation, and skip prompt asking to. 2=Do not run it, and skip prompt asking to. 0=Normal behaviour.<br>
-set skipantiviruswarning - 0=Normal behaviour. 1=Skips the warning about disabling your antivirus.<br>
-set skipotherscriptprompt - 0=Normal behaviour. 1=Skips prompts about non-standard scripts like Beta or Custom Scripts.<br>
-set skipupdateavailable - Set to 1 to ignore ALL available updates.<br>
-set ignoreoptionalupdate - Set to 1 to ignore optional updates.<br>
+<code>set automaticchannel</code> - Set the default channel, and skip the channel selection page. 1=Current/Monthly, 2=Insider, 3=DogfoodDevMain. O=Off<br>
+<code>set automaticdeleteoldofficeinstallations</code> - 1=Automatically run OfficeScrubber and delete all office installations before installation, and skip prompt asking to. 2=Do not run it, and skip prompt asking to. 0=Normal behaviour.<br>
+<code>set skipantiviruswarning</code> - 0=Normal behaviour. 1=Skips the warning about disabling your antivirus.<br>
+<code>set skipotherscriptprompt</code> - 0=Normal behaviour. 1=Skips prompts about non-standard scripts like Beta or Custom Scripts.<br>
+<code>set skipupdateavailable</code> - Set to 1 to ignore ALL available updates.<br>
+<code>set ignoreoptionalupdate</code> - Set to 1 to ignore optional updates.<br>
 These can all be set in the settings portion of the OfficeFree65.bat file (it is at the top)
 
 
