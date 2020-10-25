@@ -111,20 +111,17 @@ From version 3.1.0 onwards, the script supports options to automate installation
 <code>set ignoreoptionalupdate</code> - Set to 1 to ignore optional updates.<br>
 These can all be set in the settings portion of the OfficeFree65.bat file (it is at the top)
 
-
 ## FAQ
-<h3>Why does it say "Microsoft Office Mondo 2016" on the activation page?</h3>
+### Why does it say "Microsoft Office Mondo 2016" on the activation page?
 Being a monthly activation subscription, KMS activation dosen't work well when you try to activate the product as a 365 subscription. Activating as Mondo 2016 fixes that. <b> You will still receive all features and feature updates as Office 365 ProPlus.</b>
-<br>
-<h3>Why are the files on codeberg and not github?</h3>
+
+### Why are the files on codeberg and not github?
 Github is owned by Microsoft. I don't know how long this repo would survive over here.
-<br>
-<h3>Bugs</h3>
+
+### Bugs
 I'm still a noob by most developer's standards, so there may be issues I haven't noticed yet, although I have tried to iron out as many as possible. Please report them here on the issues tab, or for a possibly faster reponse, at https://codeberg.org/3rik/OfficeFree65/issues.
-<br><br>
 
 ## Credits
 The credits for most of this project go to the developers of Yet Another Office Click To Run Installer, Office Scrubber and KMS activator. This is also based on a guide here: https://docs.google.com/document/d/1K-4oqnyomXCibQfOJkYbLqeKTmO7ApoGRk_EscaWnEk/preview which achieves the same but has more steps involved.
 <br>
 All I did was simplify the process a bit by putting it into one script that does most of the work for you.
-
