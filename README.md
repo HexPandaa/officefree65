@@ -1,5 +1,5 @@
 ### Here from "Your version of OfficeFree65 is outdated"?
-The latest update broke older versions of scripts.
+The update 3.0.0 broke functionality in older versions of this script.
 Please downloads the latest version at https://codeberg.org/3rik/OfficeFree65/releases
 
 # OfficeFree65
