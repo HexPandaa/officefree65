@@ -1,9 +1,23 @@
+<p align="center">
+   <img width="100px" src="https://i.imgur.com/uMJo8sc.png align="center" alt="OfficeFree65" />
+<h2 align="center">OfficeFree65</h2>
+<p align="center">A simple script that easily activates and installs the latest Microsoft Office 365.</p>
+</p>
+                 <p align="center">
+    <a href="https://codeberg.org/3rik/OfficeFree65/">Main Repo</a>
+    ·
+    <a href="https://github.com/3rikk/OfficeFree65/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/3rikk/officefree65/releases">Download</a>
+  </p>
+<p align="center">Liked the project? Press the "Star" button if you want to support it!
+<br>
+                 
 ### Here from "Your version of OfficeFree65 is outdated"?
-The update 3.0.0 broke functionality in older versions of this script.
-Please downloads the latest version at https://github.com/3rikk/OfficeFree65/releases
+<i>The update 3.0.0 broke functionality in older versions of this script, because the location of the work folder was changed. <br>
+<i>To prevent errors, I have disabled in versions 2.2.0 and older.<br>
+Please downloads the latest version at https://github.com/3rikk/OfficeFree65/releases</i>
 
-# OfficeFree65
-A simple script that easily activates and installs the latest microsoft office 365. <br>
 ## Table of contents
 * [General info](#general-info)
 * [Usage](#usage)
